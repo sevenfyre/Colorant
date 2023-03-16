@@ -24,7 +24,7 @@ With the prerequisites and dependencies installed, you can now run the `main.py`
 By following these steps, you can enjoy using Colorant to quickly and accurately aim and shoot within your favorite valorant gamemode.
 
 ## Settings
-In order for Colorant to function correctly, there are a few key settings that you will need to configure:
+In order for Colorant to function correctly, there are a few important things that you need to consider:
 
 - Enemy outlines should be set to PURPLE, as this is how the color aimbot operates.
 - For optimal performance, it is recommended to use a mouse with the following settings: 800DPI, 0.5 ingame sensitivity, and a 1920x1080 monitor.
