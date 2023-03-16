@@ -1,0 +1,5 @@
+numpy==1.19.5
+mss==6.1.0
+Pillow==8.4.0
+termcolor==1.1.0
+pyserial==3.5
