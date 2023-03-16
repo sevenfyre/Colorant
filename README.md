@@ -37,6 +37,6 @@ Pull requests are welcome. If you have any suggestions, questions, or find any i
 
 ## Disclaimer
 
-THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY, IT USE AT YOUR OWN RISK!
+THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY, USE AT YOUR OWN RISK!
 
 Undetectable does not mean not bannable, I do not condem any hacking as it ruins the fun for you and also for other players. This project was created just to show that it is possible to "cheat" using arduino and a simple python script.
