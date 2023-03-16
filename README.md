@@ -19,6 +19,8 @@ The initial setup can be a bit challenging, as you will need to set up your Ardu
 
 Next, you will need to download and install Python, with [Version 3.8](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe) being recommended as it was the version used to develop this project. Once Python is installed, you can download Colorant and install the necessary dependencies by using the command `pip install -r requirements.txt`.
 
+To utilize the Arduino board as a computer mouse, the user can upload the Arduino.ino sketch to the board via the Arduino IDE. This sketch can be located within the [Arduino](https://github.com/hafyzwithawhy/Colorant/tree/main/Arduino) folder. The process involves connecting the Arduino board to the computer, opening the Arduino IDE software, selecting the appropriate board and port, and uploading the sketch. By completing these steps, you can transform their Arduino board into a functional computer mouse, allowing for the control of the computer's cursor and clicking functions through the board's hardware.
+
 With the prerequisites and dependencies installed, you can now run the `main.py` file, which is the main entry point of the program. You do not need to make any changes to the code, as it is ready to use.
 
 By following these steps, you can enjoy using Colorant to quickly and accurately aim and shoot within your favorite valorant gamemode.
