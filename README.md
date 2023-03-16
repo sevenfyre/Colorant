@@ -5,6 +5,8 @@ Colorant is an ultra fast Color Aimbot that searches for a purple color range in
 
 As traditional video game cheats is made by reading process memory and different anti-cheats try to detect and block these reads. Color aimbots would take an totally different approach - NO MEMORY READING - this would have the possibility to be undetectable by anti-cheat. Another issue would be that how could we send input to the desired video game without triggering any flags? Main goal of this project is to showcase an POC.
 
+![image](https://user-images.githubusercontent.com/82477000/225608740-5f690006-9cc8-4d88-8a60-cda89d0f936f.png)
+
 ## Getting started
 
 #### Prerequisites
