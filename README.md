@@ -41,8 +41,8 @@ In order for Colorant to function correctly, there are a few important things th
 By making these adjustments, you can fine-tune Colorant to suit your preferences and optimize its performance within the game.
 ## Support
 
-If you require support or have any questions regarding Colorant, please feel free to join our community Discord by using the following invite link:
-[![Discord Banner 2][discord-banner]][discord-url]
+If you require support or have any questions regarding Colorant, please feel free to join the community Discord:
+[![Discord Banner 2][discord-banner]][discord-link]
 
 ## Contributing
 
