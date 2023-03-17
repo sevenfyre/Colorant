@@ -41,7 +41,7 @@ https://discord.com/invite/CvXy3uZCQ7
 
 ## Contributing
 
-contributions are welcome from the community, and if you have any suggestions or encounter any issues, please do not hesitate to open an [issue](https://github.com/hafyzwithawhy/Colorant/issues) in the repository and provide as much detail as possible. Additionally, if you find this project helpful or interesting, please consider giving us a STAR.
+contributions are welcome from the community, and if you have any suggestions or encounter any issues, please do not hesitate to open an [issue](https://github.com/hafyzwithawhy/Colorant/issues) in the repository and provide as much detail as possible. Additionally, if you find this project helpful or interesting, please consider giving it a STAR.
 
 ## Disclaimer
 
