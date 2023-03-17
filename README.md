@@ -9,6 +9,9 @@ The primary objective of this project is to showcase a proof of concept, demonst
 
 ![image](https://user-images.githubusercontent.com/82477000/225608740-5f690006-9cc8-4d88-8a60-cda89d0f936f.png)
 
+![GitHub all releases](https://img.shields.io/github/downloads/hafyzwithawhy/Colorant/total?color=purple&logo=GitHub&style=for-the-badge)
+![Discord](https://img.shields.io/discord/1074740638618243132?color=purple&label=Support&logo=discord&logoColor=white&style=for-the-badge)
+
 ## Getting started
 
 #### You will need the following prerequisites:
