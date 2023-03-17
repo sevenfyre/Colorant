@@ -9,8 +9,8 @@ The primary objective of this project is to showcase a proof of concept, demonst
 
 ![image](https://user-images.githubusercontent.com/82477000/225608740-5f690006-9cc8-4d88-8a60-cda89d0f936f.png)
 
-![GitHub all releases](https://img.shields.io/github/downloads/hafyzwithawhy/Colorant/total?color=purple&logo=GitHub&style=for-the-badge)
-![Discord](https://img.shields.io/discord/1074740638618243132?color=purple&label=Support&logo=discord&logoColor=white&style=for-the-badge)
+[![Github all releases][downloads-shield]][downloads-link]
+[![Discord][discord-shield]][discord-link]
 
 ## Getting started
 
@@ -51,3 +51,9 @@ contributions are welcome from the community, and if you have any suggestions or
 It is important to note that this project is intended for EDUCATIONAL PURPOSES ONLY, and should be used at YOUR OWN RISK.
 
 Although the project is undetectable, this does not mean that it is not bannable. We do not condone any form of hacking, as it can ruin the game experience for both yourself and other players. This project was created solely to demonstrate the possibility of using an Arduino and a simple Python script to "cheat" within a video game.
+
+[discord-shield]: https://img.shields.io/discord/1074740638618243132?color=purple&label=Support&logo=discord&logoColor=white&style=for-the-badge
+[discord-link]: https://discord.com/invite/CvXy3uZCQ7
+
+[downloads-shield]: https://img.shields.io/github/downloads/hafyzwithawhy/Colorant/total?color=purple&logo=GitHub&style=for-the-badge
+[downloads-link]: https://github.com/hafyzwithawhy/Colorant/releases/latest
