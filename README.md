@@ -42,7 +42,7 @@ By making these adjustments, you can fine-tune Colorant to suit your preferences
 ## Support
 
 If you require support or have any questions regarding Colorant, please feel free to join our community Discord by using the following invite link:
-https://discord.com/invite/CvXy3uZCQ7
+[![Discord Banner 2][discord-banner]][discord-url]
 
 ## Contributing
 
@@ -56,6 +56,7 @@ Although the project is undetectable, this does not mean that it is not bannable
 
 [discord-shield]: https://img.shields.io/discord/1074740638618243132?color=purple&label=Support&logo=discord&logoColor=white&style=for-the-badge
 [discord-link]: https://discord.com/invite/CvXy3uZCQ7
+[discord-banner]: https://discordapp.com/api/guilds/1074740638618243132/widget.png?style=banner2
 
 [downloads-shield]: https://img.shields.io/github/downloads/hafyzwithawhy/Colorant/total?color=purple&logo=GitHub&style=for-the-badge
 [downloads-link]: https://github.com/hafyzwithawhy/Colorant/releases/latest
