@@ -9,8 +9,10 @@ The primary objective of this project is to showcase a proof of concept, demonst
 
 ![image](https://user-images.githubusercontent.com/82477000/225608740-5f690006-9cc8-4d88-8a60-cda89d0f936f.png)
 
-[![Github all releases][downloads-shield]][downloads-link]
+[![Downloads][downloads-shield]][downloads-link]
 [![Discord][discord-shield]][discord-link]
+[![Language][language-shield]][language-link]
+[![License][license-shield]][license-link]
 
 ## Getting started
 
@@ -57,3 +59,9 @@ Although the project is undetectable, this does not mean that it is not bannable
 
 [downloads-shield]: https://img.shields.io/github/downloads/hafyzwithawhy/Colorant/total?color=purple&logo=GitHub&style=for-the-badge
 [downloads-link]: https://github.com/hafyzwithawhy/Colorant/releases/latest
+
+[language-shield]: https://img.shields.io/github/languages/top/hafyzwithawhy/Colorant?color=purple&logo=python&logoColor=white&style=for-the-badge
+[language-link]: https://www.python.org/
+
+[license-shield]: https://img.shields.io/github/license/hafyzwithawhy/Colorant?color=purple&logo=github&style=for-the-badge
+[license-link]: https://github.com/hafyzwithawhy/Colorant/blob/main/LICENSE
