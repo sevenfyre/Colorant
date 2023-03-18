@@ -52,7 +52,7 @@ contributions are welcome from the community, and if you have any suggestions or
 
 It is important to note that this project is intended for EDUCATIONAL PURPOSES ONLY, and should be used at YOUR OWN RISK.
 
-Although the project is undetectable, this does not mean that it is not bannable. We do not condone any form of hacking, as it can ruin the game experience for both yourself and other players. This project was created solely to demonstrate the possibility of using an Arduino and a simple Python script to "cheat" within a video game.
+Although the project is undetectable, this does not mean that it is not bannable. I do not condone any form of hacking, as it can ruin the game experience for both yourself and other players. This project was created solely to demonstrate the possibility of using an Arduino and a simple Python script to "cheat" within a video game.
 
 [discord-shield]: https://img.shields.io/discord/1074740638618243132?color=purple&label=Support&logo=discord&logoColor=white&style=for-the-badge
 [discord-link]: https://discord.com/invite/CvXy3uZCQ7
